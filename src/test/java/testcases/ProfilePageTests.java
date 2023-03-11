@@ -1,9 +1,9 @@
-package hu.progmatic.testcases;
+package testcases;
 
-import hu.progmatic.driverfactory.DriverBaseTest;
-import hu.progmatic.pages.AppointmentPage;
-import hu.progmatic.pages.HomePage;
-import hu.progmatic.pages.ProfilePage;
+import driverfactory.DriverBaseTest;
+import pages.AppointmentPage;
+import pages.HomePage;
+import pages.ProfilePage;
 import org.testng.annotations.Test;
 
 public class ProfilePageTests extends DriverBaseTest {

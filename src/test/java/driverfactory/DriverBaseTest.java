@@ -1,4 +1,4 @@
-package hu.progmatic.driverfactory;
+package driverfactory;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

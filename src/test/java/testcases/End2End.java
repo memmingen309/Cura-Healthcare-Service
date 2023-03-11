@@ -1,11 +1,16 @@
-package hu.progmatic.testcases;
+package testcases;
 
-import hu.progmatic.driverfactory.DriverBaseTest;
-import hu.progmatic.pages.AppointmentPage;
-import hu.progmatic.pages.HomePage;
-import hu.progmatic.pages.LoginPage;
-import hu.progmatic.pages.ProfilePage;
+import driverfactory.DriverBaseTest;
+import driverfactory.DriverBaseTest;
+import pages.AppointmentPage;
+import pages.HomePage;
+import pages.LoginPage;
+import pages.ProfilePage;
 import org.testng.annotations.Test;
+import pages.AppointmentPage;
+import pages.HomePage;
+import pages.LoginPage;
+import pages.ProfilePage;
 
 public class End2End extends DriverBaseTest {
     HomePage homePage;

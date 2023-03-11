@@ -1,7 +1,7 @@
-package hu.progmatic.testcases;
+package testcases;
 
-import hu.progmatic.driverfactory.DriverBaseTest;
-import hu.progmatic.pages.HomePage;
+import driverfactory.DriverBaseTest;
+import pages.HomePage;
 import org.testng.annotations.Test;
 
 public class HomePageTests extends DriverBaseTest {
