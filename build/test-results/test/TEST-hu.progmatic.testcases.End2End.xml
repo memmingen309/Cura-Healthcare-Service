@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hu.progmatic.testcases.End2End" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-11T15:43:29" hostname="192.168.0.104" time="7.556">
+  <properties/>
+  <testcase name="End2EndTest" classname="hu.progmatic.testcases.End2End" time="7.556"/>
+  <system-out><![CDATA[Test case execution started
+Homepage loaded properly.
+HomePage Ok
+Login Ok
+AppointmentTest Ok
+Profile Page is Ok
+Test case execution finished
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 111.0.5563.64 (c710e93d5b63b7095afe8c2c17df34408078439d-refs/branch-heads/5563@{#995}) on port 13667
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+márc. 11, 2023 4:43:28 DU. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 111, so returning the closest version found: 108
+]]></system-err>
+</testsuite>
